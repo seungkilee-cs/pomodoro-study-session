@@ -18,5 +18,6 @@ Notes and Works for Pomodoro study session
 ## Graph
 
 ## Dynamic Programming
+- [04/08 - 0-1 Knapsack Problem](./dynamic_programming/01_knapsack.ipynb)
 
 ## Recursion
